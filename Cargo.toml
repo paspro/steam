@@ -9,7 +9,7 @@ authors = ["Panos Asproulis <p.asproulis@icloud.com>"]
 rust-version = "1.85"
 
 [dependencies]
-rayon = "1.5.1"
+rayon = "1.10.0"
 numerics = {git = "https://github.com/paspro/numerics.git"}
 
 [dev-dependencies]
